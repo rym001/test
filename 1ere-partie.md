@@ -21,7 +21,7 @@ This policy is intended to ensure that research data created as part of the rese
 
 #### Biomedical Research:
 
-or biomedical research, the WCM-Q currently runs clusters, totaling 86 nodes ranging from 2 to 56 cores distributed like this:
+For biomedical research, the WCM-Q currently runs clusters, totaling 86 nodes ranging from 2 to 56 cores distributed like this:
 
 1 partition of 20 nodes. each node has 2 cores. Name= Multi2   
 1 partition of 22 nodes. each node has 4 cores. Name= Multi4   
